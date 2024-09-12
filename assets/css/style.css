@@ -1,3 +1,9 @@
 body {
     font-family: "Space Grotesk", system-ui;
+    margin: 0;
+    background-color: #FFD7C4;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
 }
